@@ -1,0 +1,4 @@
+__pycache
+*.pyc
+*.venv
+test_db.db
